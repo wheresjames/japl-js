@@ -1,0 +1,9 @@
+name            japl
+version         0.1.2
+description     Just Another Promise Library.  Promise loop implementations.
+company         wheresjames
+author          Robert Umbehant
+email           japl@wheresjames.com
+url             https://github.com/wheresjames/japl-js
+repo            git+ssh://git@github.com/wheresjames/japl-js.git
+license         MIT
